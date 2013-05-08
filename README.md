@@ -1,0 +1,4 @@
+GobyExample
+===========
+
+Go by Example
